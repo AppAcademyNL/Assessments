@@ -4,6 +4,7 @@ For this assessment you have 8 hours. After you commit your work, one of our sen
 
 Good luck with the assessment!
 
+++
 
 Instructions: 
 Create a client for the the Open Movie Database (OMDb), available on http://omdbapi.com. The app must implement the following functionalities:
@@ -29,3 +30,4 @@ The code must be written in Swift.
 
 The deployment target of the app should be iOS 11.
 
+++
