@@ -14,5 +14,5 @@ Some considerations about the implementation of the app:
 
 The app can use third party libraries just for the JSON parsing process; the rest of features must be implemented using standard Foundation and UIKit components.
 The app should be able to handle error's in connection in a user friendly way.
-The code can be written in either Swift, Objective-C, or a combination of both. Keep in mind that both languages are used within our projects.
-The deployment target of the app should be iOS 10.
+The code must be written in Swift. 
+The deployment target of the app should be iOS 11.
