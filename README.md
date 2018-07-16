@@ -9,25 +9,23 @@ Good luck with the assessment!
 Instructions: 
 Create a client for the the Open Movie Database (OMDb), available on http://omdbapi.com. The app must implement the following functionalities:
 
-Search movies by title.
+1. Search movies by title.
 
-Present the results of the search in a list. 
+2. Present the results of the search in a list. 
 
-Each cell in the list must have a thumbnail image of the movie (if available) and the title. 
+3. Each cell in the list must have a thumbnail image of the movie (if available) and the title. 
 
-The user can open a detail view of the movie by tapping on a movie. 
+4. The user can open a detail view of the movie by tapping on a movie. 
 
-The details should include a larger version of the movie poster and more details about the movie (year, cast, etc.).
+5. The details should include a larger version of the movie poster and more details about the movie (year, cast, etc.).
 
 
 Some considerations about the implementation of the app:
 
-The app can use third party libraries just for the JSON parsing process; the rest of features must be implemented using standard Foundation and UIKit components.
+• The app can use third party libraries just for the JSON parsing process; the rest of features must be implemented using standard Foundation and UIKit components.
 
-The app should be able to handle error's in connection in a user friendly way.
+• The app should be able to handle error's in connection in a user friendly way.
 
-The code must be written in Swift. 
-
-The deployment target of the app should be iOS 11.
+• The code must be written in Swift and the deployment target of the app should be iOS 11.
 
 ++
