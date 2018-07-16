@@ -6,10 +6,11 @@ For this assessment you have 8 hours. After you commit your work, one of our sen
 Instructions: 
 Create a client for the the Open Movie Database (OMDb), available on http://omdbapi.com. The app must implement the following functionalities:
 
-Search movies by title
-
-Present the results of the search in a list; each cell in the list must have a thumbnail image of the movie (if available) and the title
-The user can open a detail view of the movie by tapping on a movie. The details should include a larger version of the movie poster and more details about the movie (year, cast, etc.).
+Search movies by title.
+Present the results of the search in a list. 
+Each cell in the list must have a thumbnail image of the movie (if available) and the title. 
+The user can open a detail view of the movie by tapping on a movie. 
+The details should include a larger version of the movie poster and more details about the movie (year, cast, etc.).
 
 Some considerations about the implementation of the app:
 
