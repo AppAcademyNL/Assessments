@@ -20,7 +20,6 @@ Create a client for the the Open Movie Database (OMDb), available on http://omdb
 5. The details should include a larger version of the movie poster and more details about the movie (year, cast, etc.).
 
 
-
 Some considerations about the implementation of the app:
 
 The app can use third party libraries just for the JSON parsing process; the rest of features must be implemented using standard Foundation and UIKit components.
