@@ -1,8 +1,8 @@
 # OMDb assessment 
 
-For this assessment you have 8 hours. After you commit your work, one of our senior developers will review it together with you. 
+For this assessment you have 8 hours. After you commit your work, one of our senior developers will review it together with you. Before you start, clone the repository in your source control and create your own branch. 
 
-Before you start, clone the repository in your source control and create your own branch. Good luck with the assessment!
+Good luck with the assessment!
 
 
 Instructions: 
