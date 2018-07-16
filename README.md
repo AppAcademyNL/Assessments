@@ -1,6 +1,3 @@
-# assessments
-Assessments for advanced bootcamp trainings
-
 # OMDb assessment 
 
 For this assessment you have 8 hours. After you commit your work, one of our senior developers will review it together with you. Good luck!
