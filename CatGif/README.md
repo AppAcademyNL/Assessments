@@ -16,6 +16,7 @@ http://loripsum.net/api
 
 Requirements:
 
+* Develop the app in Swift
 * Pull to refresh
 * Autolayout
 * When a cell with gif gets pressed it shows a detailview with the same image and text from the api
@@ -27,8 +28,6 @@ Your assignment will be evaluated by following criteria:
 * Code structure
 * Architecture
 
-Should be developed in Swift.
-
 ### Delivery:
 
-Create a zip of your project and e-mail it on time to assessment@theappacademy.nl if the file is to big, use wetransfer and e-mail the link.
+Create a zip of your project and e-mail it on time to assessment@theappacademy.nl. If the file is to big, use WeTransfer and e-mail the link.
