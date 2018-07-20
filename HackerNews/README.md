@@ -20,3 +20,7 @@ The app can use third party libraries just for the JSON parsing process; the res
 The app should be able to handle error's in connection in a user friendly way.
 
 ![alt text](https://i.imgur.com/vPZ4ASK.png)
+
+### Delivery:
+
+Create a zip of your project and e-mail it on time to assessment@theappacademy.nl. If the file is to big, use [WeTransfer](https://wetransfer.com/) and e-mail the link.
