@@ -14,7 +14,7 @@ http://loripsum.net/api
 
 2. Once a cell gets pressed it should show the same gif in a new screen with text from the Lorem Ipsum API.
 
-Requirements:
+### Requirements:
 
 * Develop the app in Swift
 * Pull to refresh
