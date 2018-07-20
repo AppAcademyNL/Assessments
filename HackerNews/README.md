@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/IrpJNEc.png)
+
 # Hacker News assessment 
 
 For this assessment you have 1 day. After you send your work back, one of our senior developers will review it together with you. 
