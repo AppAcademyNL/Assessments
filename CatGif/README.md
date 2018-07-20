@@ -29,6 +29,6 @@ Your assignment will be evaluated by following criteria:
 
 Should be developed in Swift.
 
-###Delivery:
+### Delivery:
 
 Create a zip of your project and e-mail it on time to assessment@theappacademy.nl if the file is to big, use wetransfer and e-mail the link.
