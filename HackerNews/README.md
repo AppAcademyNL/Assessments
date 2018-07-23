@@ -25,5 +25,5 @@ The app should be able to handle error's in connection in a user friendly way.
 
 ### Delivery:
 
-Create a zip of your project and e-mail it on time to assessment@theappacademy.nl. If the file is too big, use [WeTransfer](https://wetransfer.com/) and e-mail the link.
+Work locally and perform your changes locally (but still using git). Once done, zip the entire repo folder (including the .git subfolder) and send it on time to assessment@theappacademy.nl. If the file is too big, use [WeTransfer](https://wetransfer.com/) and e-mail the link.
 
