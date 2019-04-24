@@ -3,7 +3,7 @@
 # Wikipedia assessment 
 
 For this assessment you have 2 days. After you send your work back, one of our senior developers will review it together with you. 
-Clone the Wikipedia](https://github.com/wikimedia/wikipedia-ios) app.
+Clone the Wikipedia (https://github.com/wikimedia/wikipedia-ios) app.
 
 
 ### Instructions:
