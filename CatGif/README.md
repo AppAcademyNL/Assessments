@@ -1,19 +1,19 @@
 ![alt text](https://i.imgur.com/IrpJNEc.png)
 # Random Cat Gif App
 
-![alt text](http://api.thecatapi.com/v1/images/search)
 
 Gif API: 
-http://api.thecatapi.com/v1/images/search
+https://api.thecatapi.com/v1/images/search
+https://docs.thecatapi.com/api-reference/images/images-search
 
 Text API:
 http://loripsum.net/api
 
 ### Assignment:
 
-1. Create a tableview inside a UITabBarController which shows a list of a 100 (hundred) random cat gifs. The mentioned API link wil return a JSON array of cat gif info. You have to create a proper request body, as the API supports different formats and requests. Feel free to customize the request to your needs.
+1. Create a tableview inside a UITabBarController which shows a list of a 100 (hundred) random cat gifs. The mentioned API link can return a JSON array of cat gif info. You have to create a proper request query, as the API supports different formats and requests. Feel free to customize the request to your needs.
 
-2. Once a cell gets pressed it should show the same gif in a new screen with text from the Lorem Ipsum API.
+2. Once a cell gets tapped, it should show the same gif in a new screen with text from the Lorem Ipsum API.
 
 ### Requirements:
 
