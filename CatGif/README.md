@@ -4,6 +4,8 @@
 
 Gif API: 
 https://api.thecatapi.com/v1/images/search
+
+and documentation:
 https://docs.thecatapi.com/api-reference/images/images-search
 
 Text API:
