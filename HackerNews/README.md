@@ -17,7 +17,7 @@ For this assessment you have 1 day. After you send your work back, one of our se
 9. Unit tests
 Extra: Once you have done all this we can try to persist the stories in CORE DATA or REALM
 
-The app can use third party libraries just for the JSON parsing process; the rest of features must be implemented using standard Swift components.
+The app must be implemented using standard Swift components and system libraries.
 
 The app should be able to handle error's in connection in a user friendly way.
 
